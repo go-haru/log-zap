@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/fatih/color v1.16.0
 	github.com/go-haru/field v0.0.2
-	github.com/go-haru/log v0.0.2
+	github.com/go-haru/log v0.0.3
 	go.uber.org/zap v1.26.0
 )
 
